@@ -119,4 +119,9 @@ Représente la relation entre une **commande et un produit**.
 
 ## ▶️ Exemple d'exécution
 
-[Screen Recording 2026-03-08 145843.mp4](../../Videos/Screen%20Recordings/Screen%20Recording%202026-03-08%20145843.mp4)
+
+https://github.com/user-attachments/assets/25478b18-33ca-4300-b041-3a0fcfc66434
+
+
+
+
